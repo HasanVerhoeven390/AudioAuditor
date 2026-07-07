@@ -35,3 +35,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // clarify the control flow
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// guard against empty input
